@@ -19,7 +19,7 @@ O sistema permite:
 
 ```text
 src/
-└── tba/
+└── bancario/
     ├── ContaBancaria.java
     └── ProgramaPrincipal.java
 ```
