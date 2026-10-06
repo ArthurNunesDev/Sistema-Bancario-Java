@@ -1,0 +1,12 @@
+# Java
+*.class
+target/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Sistema
+*.log
